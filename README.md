@@ -12,3 +12,4 @@ or
 ./godown.sh
 
 ```
+![Screenshot 2023-12-02 162742](https://github.com/Moniruzzaman995/godown/assets/82209616/3ad24f9f-5d9a-407a-a083-516362c9e0e6)
